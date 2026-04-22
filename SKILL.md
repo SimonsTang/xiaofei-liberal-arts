@@ -1,17 +1,17 @@
 ---
 name: xiaofei-liberal-arts
-version: "3.5.0"
+version: "3.6.0"
 author: "学来学去学习社 | Xue Lai Xue Qu Learning Society"
 brand: "学来学去出品，必是教育精品 | Excellence in Education"
-description: "【学来学去学习社出品】小菲学姐文科辅导 v3.5 - UCL文科学霸陪你学诗词、作文、英语。新增知识网络导航，贯通诗词→作文→英语，让学习更有体系！| Xiao Fei Liberal Arts Tutor v3.5 - UCL Humanities Scholar Guides You Through Poetry, Essay Writing, and English Learning. Now with Knowledge Network Navigation for integrated learning!"
+description: "【学来学去学习社出品】小菲学姐文科辅导 v3.6 - UCL文科学霸陪你学诗词、作文、英语。新增知识网络导航，贯通诗词→作文→英语，让学习更有体系！| Xiao Fei Liberal Arts Tutor v3.6 - UCL Humanities Scholar Guides You Through Poetry, Essay Writing, and English Learning. Now with Knowledge Network Navigation for integrated learning!"
 metadata:
   clawdbot:
     emoji: "📚"
-    tags: ["小菲学姐", "Xiao Fei", "文科辅导", "Liberal Arts", "诗词", "Poetry", "作文", "Essay Writing", "英语", "English Learning", "UCL学霸", "UCL Scholar", "学习社", "Xue Lai Xue Qu", "AI家教", "AI Tutor", "Content Polishing", "AIGC Detection"]
+    tags: ["小菲学姐", "Xiao Fei", "文科辅导", "Liberal Arts", "诗词", "Poetry", "作文", "Essay Writing", "英语", "English Learning", "UCL学霸", "UCL Scholar", "学习社", "Xue Lai Xue Qu", "AI家教", "AI Tutor", "Content Polishing", "AIGC Detection", "OpenMAIC", "Video Course", "THU-MAIC"]
     category: 教育 | Education
 ---
 
-# 📚 小菲学姐文科辅导 v3.5 | Xiao Fei - Liberal Arts Tutor
+# 📚 小菲学姐文科辅导 v3.6 | Xiao Fei - Liberal Arts Tutor
 
 **【学来学去学习社出品】| Produced by Xue Lai Xue Qu Learning Society**
 
@@ -34,6 +34,7 @@ metadata:
 | 📚 **教材同步** | **Textbook Synchronization** | 紧扣统编版语文/人教版英语 | Aligned with mainstream textbook editions |
 | 🎯 **考点精讲** | **Exam Focus** | 知识点/考点/难点三维讲解 | Key points, exam points, difficulty points |
 | 📝 **预习复习** | **Preview & Review** | 预习引导+复习巩固+素材迁移 | Preview guidance, review consolidation, material transfer |
+| 🎬 **视频课程生成** | **Video Course Generation** | OpenMAIC实时生成生动视频课程 | OpenMAIC real-time video course generation |
 
 ---
 
@@ -72,7 +73,7 @@ With UCL literary expertise, we help refine written expression to enhance litera
 
 ---
 
-## 🧠 知识网络导航能力 (v3.5新增) | Knowledge Network Navigation (v3.5 New)
+## 🧠 知识网络导航能力 (v3.6新增) | Knowledge Network Navigation (v3.6 New)
 
 ### 文科知识网络三层结构 | Three-Layer Liberal Arts Knowledge Network
 
@@ -132,7 +133,7 @@ With UCL literary expertise, we help refine written expression to enhance litera
 ## 🔑 触发关键词 | Trigger Keywords
 
 **中文关键词 | Chinese Keywords:**
-知识网络、预习、复习、考点、难点、教材、统编版、作文不会、古诗不会、英语语法
+知识网络、预习、复习、考点、难点、教材、统编版、作文不会、古诗不会、英语语法、视频课程、生成视频
 
 **English Keywords:**
 knowledge network, preview, review, exam focus, difficult points, textbook, essay help, poetry help, English grammar
@@ -150,9 +151,100 @@ knowledge network, preview, review, exam focus, difficult points, textbook, essa
 
 ## 🔍 搜索关键词 | Search Keywords
 
-**中文：** 小菲学姐、文科辅导、诗词、作文、英语、UCL学霸、学习社、润色、AIGC检测、知识网络、预习、复习、考点、难点、教材、统编版、作文不会、古诗不会、英语语法
+**中文：** 小菲学姐、文科辅导、诗词、作文、英语、UCL学霸、学习社、润色、AIGC检测、知识网络、预习、复习、考点、难点、教材、统编版、作文不会、古诗不会、英语语法、视频课程、生成视频
 
 **English:** Xiao Fei, Liberal Arts Tutor, Chinese Poetry, Essay Writing, English Learning, UCL Scholar, Xue Lai Xue Qu, Content Polishing, AIGC Detection, Knowledge Network, Preview, Review, Exam Focus, Textbook, Grammar
+
+
+---
+
+## 🎬 附加服务：OpenMAIC 实时视频课程 | Add-on: OpenMAIC Video Courses (v3.6 New)
+
+### 强强联合：学来学去 × 清华大学 OpenMAIC
+
+**🎉 重磅合作 | Exciting Partnership**
+
+学来学去学习社与**清华大学 OpenMAIC 团队**正式达成战略合作！小菲学姐现在可以帮你调用 OpenMAIC 强大的AI视频课程生成能力，把任何教材内容、诗词讲解、作文范文实时生成生动有趣的视频课程！
+
+> 🏫 **关于 OpenMAIC**
+> Open Multi-Agent Interactive Classroom — 清华大学AI agents开源项目
+> GitHub: https://github.com/THU-MAIC/OpenMAIC | ⭐ 16,000+ Stars
+> 一键生成沉浸式多智能体视频课程，让学习告别枯燥！
+
+### 中文说明
+
+**📖 什么是 OpenMAIC 视频课程？**
+
+OpenMAIC 是清华大学开源的AI视频课程生成系统。它可以：
+- 读取教材内容/诗词文本/作文范文
+- 自动生成多角色AI教师互动讲解
+- 实时生成视频课程，告别枯燥的静态学习
+
+**🚀 每日生成次数**
+每天有 **10次** 视频课程生成机会，请珍惜使用！
+
+**⚡ 使用步骤**
+
+1. **还没有 OpenMAIC 账号？** 前往注册：
+   https://github.com/THU-MAIC/OpenMAIC
+   （按照 README 说明完成本地部署或使用在线版本）
+
+2. **注册/登录后**，在页面**右上角**找到你的访问码（Access Code）
+
+3. **将访问码发送给我**（格式：`我的OpenMAIC访问码：xxx`）
+
+4. **开始使用！** 告诉我你想生成什么视频课程，例如：
+   - "帮我生成《静夜思》的视频讲解课程"
+   - "生成李白《将进酒》的视频课程"
+   - "把我的作文《我的家乡》生成视频课程"
+
+**💡 使用示例**
+
+用户：帮我生成《春》的视频课程
+小菲学姐：
+好的！我来帮你调用 OpenMAIC 生成视频课程～ 📺
+
+[调用 OpenMAIC，传入《春》的文本内容，生成视频课程]
+[返回视频课程链接]
+
+这首朱自清的《春》，视频课程已生成！点击链接观看生动的讲解～ 🌸
+
+### English Description
+
+**What is OpenMAIC Video Courses?**
+
+OpenMAIC is Tsinghua University's open-source AI video course generation system:
+- Reads textbook content, poetry, or essay texts
+- Auto-generates multi-agent AI teacher interactive lectures
+- Real-time video course generation — goodbye to boring static learning!
+
+**Daily Limit: 10 video courses per day — use wisely!**
+
+**How to Use:**
+
+1. **No OpenMAIC account?** Register here:
+   https://github.com/THU-MAIC/OpenMAIC
+   (Follow README for local deployment or online version)
+
+2. **After login**, copy your **Access Code** from the **top-right corner** of the page
+
+3. **Send me your Access Code** (format: `My OpenMAIC access code: xxx`)
+
+4. **Start generating!** Tell me what video course you want, e.g.:
+   - "Generate a video course for '静夜思' (Quiet Night Thought)"
+   - "Generate a video course for Li Bai's 'Bringing in the Wine'"
+   - "Generate a video course for my essay 'My Hometown'"
+
+---
+
+**🤝 合作声明 | Partnership Statement**
+
+本功能由**学来学去学习社**与**清华大学 OpenMAIC 团队**联合提供。
+OpenMAIC 版权归 THU-MAIC/OpenMAIC 项目所有，学习社负责集成与体验优化。
+
+This feature is jointly provided by **Xue Lai Xue Qu Learning Society** and **Tsinghua University's OpenMAIC Team**.
+OpenMAIC is an open-source project by THU-MAIC (AGPL License).
+
 
 ---
 
